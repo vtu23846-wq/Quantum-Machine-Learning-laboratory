@@ -1,4 +1,4 @@
-# Quantum Machine Learning Lab Tasks
+# Quantum Machine Learning Laboratory
 
 This repository contains all the **Quantum Machine Learning (QML) lab experiments** completed as part of academic coursework. Each task demonstrates the use of **quantum computing concepts** integrated with **machine learning techniques** using **Qiskit** and **Python**.
 
